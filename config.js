@@ -49,7 +49,7 @@ global.location = "India " // location
 
 //bot bombdy
 global.botname = "aultra" //ur bot name
-global.websitex = "google.com" //website
+global.websitex = "t.me/aultra" //website
 global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
 global.packname = "Cheems Bot Stickers\n\n\n\n\n\n\n🦄🦄🦄 "
 global.author = "🦄Dream Aultra"
