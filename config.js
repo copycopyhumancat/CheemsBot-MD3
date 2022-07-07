@@ -27,7 +27,7 @@ const chalk = require("chalk")
 //aumto functioner
 global.autoTyping = false //auto tying in gc (true to on, false to off)
 global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
-global.autoReadGc = false //auto reading in gc (true to on, false to off)
+global.autoReadGc = true //auto reading in gc (true to on, false to off)
 global.autoReadAll = false // auto reading in all pchat gc and status (true to on, false to off)
 global.autoRecord = false //auto recording (true to on, false to off)
 global.available = false //auto available (true to on, false to off)
@@ -56,7 +56,7 @@ global.author = "🦄Dream Aultra"
 global.themeemoji = "🏁"
 global.reactmoji = "🤭"
 global.ownertag = ['ur number'] //ur owner tag
-global.ownernummenu = ["0"] //ur owner number in menu and all
+global.ownernummenu = ["77"] //ur owner number in menu and all
 global.watermark = "Aultra Bot Inc." //ur watermark
 global.botscript = "https://google.com"
 global.linkz1 = "https://www.google.com"
@@ -106,7 +106,7 @@ global.mess = {
     error: 'Error!',
     ban: 'dead',
     nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
-    banChat: ' '
+    banChat: '.'
 }
 global.limitawal = {
     premium: "Infinity",
