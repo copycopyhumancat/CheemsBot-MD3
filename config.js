@@ -63,10 +63,10 @@ global.linkz1 = "https://www.google.com"
 global.linkz2 = "https://google.com/"
 
 //Bot theme media
-global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
-global.log0 = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur logo pic
-global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
-global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
+global.thum = fs.readFileSync("./XeonMedia/theme/a.jpg") //ur thumb pic
+global.log0 = fs.readFileSync("./XeonMedia/theme/a.jpg") //ur logo pic
+global.err4r = fs.readFileSync("./XeonMedia/theme/a.jpg") //ur error pic
+global.thumb = fs.readFileSync("./XeonMedia/theme/a.jpg") //ur thumb pic
 
 //database
 global.ntilinkytvid = []
@@ -99,7 +99,7 @@ global.mess = {
     botAdmin: 'Bot Must Be Admin First!',
     owner: 'This feature is only for owner',
     group: 'This feature is only for groups!',
-    private: 'This feature is only for private chats!',
+    private: 'pm only!',
     bot: 'This feature is only for bot',
     wait: 'In process...',
     linkm: 'Where is the link?',
